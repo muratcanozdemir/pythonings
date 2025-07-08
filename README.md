@@ -1,4 +1,4 @@
-# List as Problem Statements (for README or scaffolding)
+# List as Problem Statements
 ## Efficient Iteration:
 Fix code that uses verbose or inefficient nested loops by leveraging itertools for concise, fast combinatorics.
 
