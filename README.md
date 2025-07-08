@@ -1,3 +1,7 @@
+# Zingling style, bite pieces of Python's off-the-beaten path exercises
+Ever wondered why Rust guys have zingling, but no real Python version?
+Welcome.
+
 # List as Problem Statements
 ## Efficient Iteration:
 Fix code that uses verbose or inefficient nested loops by leveraging itertools for concise, fast combinatorics.
